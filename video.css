@@ -1,0 +1,22 @@
+/* .video-slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+.video {
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+.video-footer {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 5px;
+}
+
+video {
+  width: 320px;
+  height: 240px;
+} */
